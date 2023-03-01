@@ -1,4 +1,4 @@
-##INFORME 
+## INFORME 
 
 Se le comunica por este medio al cliente cuales han sido los resultados obtenidos a los objetivos planteados en el inicio de este análisis. 
 
@@ -6,7 +6,7 @@ La propuesta inicial consistía en evaluar opciones de inversión dentro de las 
 
 Se plantear como punto de partida analizar solo las compañías pertenecientes al Índice S&P500. 
 
-##ÍNDICE S&P500  
+## ÍNDICE S&P500  
 
 Es un índice bursátil que refleja el desempeño de las 500 empresas más grandes de Estados Unidos que cotizan en bolsa. Fue creado en 1957 y se considera uno de los índices más importantes y representativos del mercado accionario estadounidense. 
 
@@ -16,7 +16,7 @@ El S&P 500 es utilizado por inversionistas y analistas para evaluar el desempeñ
 
 Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específicos, lo que permite una mayor precisión en la evaluación del desempeño de las empresas. A continuación, se muestran los subsectores que conforman cada uno de los 11 sectores: 
 
-- Energía:
+- **Energía:
 
     Exploración y producción de petróleo y gas 
 
@@ -26,7 +26,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Almacenamiento y transporte de energía 
 
-- Materiales: 
+- **Materiales: 
 
     Productos químicos 
 
@@ -34,7 +34,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Envases y materiales de embalaje 
 
-- Industriales: 
+- **Industriales: 
 
     Maquinaria 
 
@@ -44,7 +44,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Distribución industrial 
 
-- Consumo discrecional: 
+- **Consumo discrecional: 
 
     Automóviles y componentes 
 
@@ -54,7 +54,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Hoteles, restaurantes y ocio 
 
-- Consumo básico: 
+- **Consumo básico: 
 
     Productos alimentarios 
 
@@ -64,7 +64,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Productos de tabaco 
 
-- Salud: 
+- **Salud: 
 
     Farmacéuticas 
 
@@ -74,7 +74,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Servicios de atención médica 
 
-- Financiero: 
+- **Financiero: 
 
     Bancos 
 
@@ -84,7 +84,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Gestión de activos y patrimonios 
 
-- Tecnología de la información: 
+- **Tecnología de la información: 
 
     Hardware y equipamiento 
 
@@ -94,7 +94,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Comunicaciones y redes 
 
-- Comunicación: 
+- **Comunicación: 
 
     Telecomunicaciones 
 
@@ -102,7 +102,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Servicios de entretenimiento 
 
-- Servicios públicos: 
+- **Servicios públicos: 
 
     Electricidad 
 
@@ -112,7 +112,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Servicios medioambientales 
 
-- Inmobiliario: 
+- **Inmobiliario: 
 
     Inmobiliarias 
 
@@ -170,32 +170,32 @@ Invertir en empresas específicas como Nvidia, AMD, MPS y Broadcom tiene sus pro
 
 **Nvidia** es una empresa líder en la industria de las tarjetas gráficas y también está incursionando en la inteligencia artificial y los vehículos autónomos. Nvidia ha tenido un crecimiento significativo en los últimos años y se espera que continúe en el futuro debido a la demanda de sus productos.
 
-- ROI: En los últimos 5 años, Nvidia ha tenido un ROI promedio del 56%.
+- *ROI: En los últimos 5 años, Nvidia ha tenido un ROI promedio del 56%.
 
-- AVGE volumen: El promedio de volumen diario de las acciones de Nvidia es de alrededor de 7,2 millones de acciones. 
+- *AVGE volumen: El promedio de volumen diario de las acciones de Nvidia es de alrededor de 7,2 millones de acciones. 
 
-- Volatilidad: La volatilidad de Nvidia ha sido relativamente alta en los últimos años, con un promedio de alrededor del 42%. 
+- *Volatilidad: La volatilidad de Nvidia ha sido relativamente alta en los últimos años, con un promedio de alrededor del 42%. 
 
 **AMD** es otra empresa líder en la industria de los procesadores y tarjetas gráficas. AMD ha tenido un crecimiento significativo en los últimos años y ha ganado cuota de mercado a su principal competidor, Intel.
 
-- ROI: En los últimos 5 años, AMD ha tenido un ROI promedio del 147%. 
+- *ROI: En los últimos 5 años, AMD ha tenido un ROI promedio del 147%. 
 
-- AVGE volumen: El promedio de volumen diario de las acciones de AMD es de alrededor de 64,5 millones de acciones. 
+- *AVGE volumen: El promedio de volumen diario de las acciones de AMD es de alrededor de 64,5 millones de acciones. 
 
-- Volatilidad: La volatilidad de AMD ha sido relativamente alta en los últimos años, con un promedio de alrededor del 59%.
+- *Volatilidad: La volatilidad de AMD ha sido relativamente alta en los últimos años, con un promedio de alrededor del 59%.
 
 **MPS** es una empresa especializada en tecnología de sensores, que se utiliza en una variedad de productos, desde teléfonos inteligentes hasta automóviles. MPS ha tenido un crecimiento significativo en los últimos años y tiene una posición sólida en el mercado.
 
-- ROI: En los últimos 5 años, MPS ha tenido un ROI promedio del 22%.
+- *ROI: En los últimos 5 años, MPS ha tenido un ROI promedio del 22%.
 
-- AVGE volumen: El promedio de volumen diario de las acciones de MPS es de alrededor de 2,7 millones de acciones.
+- *AVGE volumen: El promedio de volumen diario de las acciones de MPS es de alrededor de 2,7 millones de acciones.
 
-- Volatilidad: La volatilidad de MPS ha sido relativamente baja en los últimos años, con un promedio de alrededor del 19%.
+- *Volatilidad: La volatilidad de MPS ha sido relativamente baja en los últimos años, con un promedio de alrededor del 19%.
 
 **Broadcom** es una empresa diversificada que ofrece una amplia gama de productos, desde semiconductores hasta software. Broadcom ha tenido un buen desempeño en el mercado en los últimos años y ha realizado adquisiciones estratégicas para expandirse en nuevos mercados.
 
-- ROI: En los últimos 5 años, Broadcom ha tenido un ROI promedio del 36%. 
+- *ROI: En los últimos 5 años, Broadcom ha tenido un ROI promedio del 36%. 
 
-- AVGE volumen: El promedio de volumen diario de las acciones de Broadcom es de alrededor de 2,8 millones de acciones.
+- *AVGE volumen: El promedio de volumen diario de las acciones de Broadcom es de alrededor de 2,8 millones de acciones.
 
-- Volatilidad: La volatilidad de Broadcom ha sido relativamente baja en los últimos años, con un promedio de alrededor del 23%.
+- *Volatilidad: La volatilidad de Broadcom ha sido relativamente baja en los últimos años, con un promedio de alrededor del 23%.
