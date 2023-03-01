@@ -75,7 +75,7 @@ Para este caso en particular se plantearon los siguientes KPI´s:
 
 ### DASHBOARD
 
-Se cargaron los datos obtenidos en la etapa de EDA y se realizo el calculo de los Kpi's en lenguaje DAX, propio de Power BI, se desarrollaron gráficas acordes a los datos que se querían presentar y se concluyó con el análisis logrando el objetivo de poder hacer una recomendación de las cuatro compañías que por información encontre estables para la posible inversión. 
+Se cargaron los datos obtenidos en la etapa de EDA y se realizo el calculo de los KPI's en lenguaje DAX, propio de Power BI, se desarrollaron gráficas acordes a los datos que se querían presentar y se concluyó con el análisis logrando el objetivo de poder hacer una recomendación de las cuatro compañías que por información encontre estables para la posible inversión. 
 
 Adjunto el link para que puedan visualizarlo aquí -> [Dashboard S&P500](https://drive.google.com/drive/folders/1qoR2sIdQliKiNLTFV28eIhCP5gFsLhDq?usp=sharing).
 
