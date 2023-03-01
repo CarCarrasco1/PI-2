@@ -170,32 +170,32 @@ Invertir en empresas específicas como Nvidia, AMD, MPS y Broadcom tiene sus pro
 
 **Nvidia** es una empresa líder en la industria de las tarjetas gráficas y también está incursionando en la inteligencia artificial y los vehículos autónomos. Nvidia ha tenido un crecimiento significativo en los últimos años y se espera que continúe en el futuro debido a la demanda de sus productos.
 
-- *ROI: En los últimos 5 años, Nvidia ha tenido un ROI promedio del 56%.
+- *ROI: En los últimos 5 años, Nvidia ha tenido un ROI promedio del 56%.*
 
-- *AVGE volumen: El promedio de volumen diario de las acciones de Nvidia es de alrededor de 7,2 millones de acciones. 
+- *AVGE volumen: El promedio de volumen diario de las acciones de Nvidia es de alrededor de 7,2 millones de acciones.* 
 
-- *Volatilidad: La volatilidad de Nvidia ha sido relativamente alta en los últimos años, con un promedio de alrededor del 42%. 
+- *Volatilidad: La volatilidad de Nvidia ha sido relativamente alta en los últimos años, con un promedio de alrededor del 42%.*
 
 **AMD** es otra empresa líder en la industria de los procesadores y tarjetas gráficas. AMD ha tenido un crecimiento significativo en los últimos años y ha ganado cuota de mercado a su principal competidor, Intel.
 
-- *ROI: En los últimos 5 años, AMD ha tenido un ROI promedio del 147%. 
+- *ROI: En los últimos 5 años, AMD ha tenido un ROI promedio del 147%.* 
 
-- *AVGE volumen: El promedio de volumen diario de las acciones de AMD es de alrededor de 64,5 millones de acciones. 
+- *AVGE volumen: El promedio de volumen diario de las acciones de AMD es de alrededor de 64,5 millones de acciones.*
 
-- *Volatilidad: La volatilidad de AMD ha sido relativamente alta en los últimos años, con un promedio de alrededor del 59%.
+- *Volatilidad: La volatilidad de AMD ha sido relativamente alta en los últimos años, con un promedio de alrededor del 59%.*
 
 **MPS** es una empresa especializada en tecnología de sensores, que se utiliza en una variedad de productos, desde teléfonos inteligentes hasta automóviles. MPS ha tenido un crecimiento significativo en los últimos años y tiene una posición sólida en el mercado.
 
-- *ROI: En los últimos 5 años, MPS ha tenido un ROI promedio del 22%.
+- *ROI: En los últimos 5 años, MPS ha tenido un ROI promedio del 22%.*
 
-- *AVGE volumen: El promedio de volumen diario de las acciones de MPS es de alrededor de 2,7 millones de acciones.
+- *AVGE volumen: El promedio de volumen diario de las acciones de MPS es de alrededor de 2,7 millones de acciones.*
 
-- *Volatilidad: La volatilidad de MPS ha sido relativamente baja en los últimos años, con un promedio de alrededor del 19%.
+- *Volatilidad: La volatilidad de MPS ha sido relativamente baja en los últimos años, con un promedio de alrededor del 19%.*
 
 **Broadcom** es una empresa diversificada que ofrece una amplia gama de productos, desde semiconductores hasta software. Broadcom ha tenido un buen desempeño en el mercado en los últimos años y ha realizado adquisiciones estratégicas para expandirse en nuevos mercados.
 
-- *ROI: En los últimos 5 años, Broadcom ha tenido un ROI promedio del 36%. 
+- *ROI: En los últimos 5 años, Broadcom ha tenido un ROI promedio del 36%.*
 
-- *AVGE volumen: El promedio de volumen diario de las acciones de Broadcom es de alrededor de 2,8 millones de acciones.
+- *AVGE volumen: El promedio de volumen diario de las acciones de Broadcom es de alrededor de 2,8 millones de acciones.*
 
-- *Volatilidad: La volatilidad de Broadcom ha sido relativamente baja en los últimos años, con un promedio de alrededor del 23%.
+- *Volatilidad: La volatilidad de Broadcom ha sido relativamente baja en los últimos años, con un promedio de alrededor del 23%.*
