@@ -16,7 +16,7 @@ El S&P 500 es utilizado por inversionistas y analistas para evaluar el desempeñ
 
 Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específicos, lo que permite una mayor precisión en la evaluación del desempeño de las empresas. A continuación, se muestran los subsectores que conforman cada uno de los 11 sectores: 
 
-- **Energía:
+- **Energía:**
 
     Exploración y producción de petróleo y gas 
 
@@ -26,7 +26,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Almacenamiento y transporte de energía 
 
-- **Materiales: 
+- **Materiales:**
 
     Productos químicos 
 
@@ -34,7 +34,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Envases y materiales de embalaje 
 
-- **Industriales: 
+- **Industriales:**
 
     Maquinaria 
 
@@ -44,7 +44,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Distribución industrial 
 
-- **Consumo discrecional: 
+- **Consumo discrecional:** 
 
     Automóviles y componentes 
 
@@ -54,7 +54,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Hoteles, restaurantes y ocio 
 
-- **Consumo básico: 
+- **Consumo básico:** 
 
     Productos alimentarios 
 
@@ -64,7 +64,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Productos de tabaco 
 
-- **Salud: 
+- **Salud:** 
 
     Farmacéuticas 
 
@@ -74,7 +74,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Servicios de atención médica 
 
-- **Financiero: 
+- **Financiero:** 
 
     Bancos 
 
@@ -84,7 +84,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Gestión de activos y patrimonios 
 
-- **Tecnología de la información: 
+- **Tecnología de la información:** 
 
     Hardware y equipamiento 
 
@@ -94,7 +94,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Comunicaciones y redes 
 
-- **Comunicación: 
+- **Comunicación:** 
 
     Telecomunicaciones 
 
@@ -102,7 +102,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Servicios de entretenimiento 
 
-- **Servicios públicos: 
+- **Servicios públicos:** 
 
     Electricidad 
 
@@ -112,7 +112,7 @@ Cada uno de los 11 sectores del S&P 500 se divide en subsectores más específic
 
     Servicios medioambientales 
 
-- **Inmobiliario: 
+- **Inmobiliario:** 
 
     Inmobiliarias 
 
