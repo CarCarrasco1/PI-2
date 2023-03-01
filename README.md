@@ -19,13 +19,13 @@ Antes de comenzar el desarrollo del proyecto algunas de las pautas de inicio del
 
 - Objetivo:  Extraer informacion del Índice S&P500, analizarla, realizar respectivos KPI's y entregar un informe visual con recomendaciones sobre compra de acciones. 
 
-- Propuesta de trabajo es la siguiente:
+- Propuesta de trabajo:
 
-		Búsqueda y descarga de información: Realizar el  trabajo de desacarga de datos desde Yahoo Finance para obtener el material de trabajo.
+		**Búsqueda y descarga de información:** Realizar el  trabajo de desacarga de datos desde Yahoo Finance para obtener el material de trabajo.
 
-		Análisis exploratorio de los datos: Con el fin de descubrir las relaciones entre los datos, las empresas durante el tiempo, y comenzar a entablar las relaciones necesarias a futuro.
+		**Análisis exploratorio de los datos:** Con el fin de descubrir las relaciones entre los datos, las empresas durante el tiempo, y comenzar a entablar las relaciones necesarias a futuro.
 
-		KPI´s:  Establecer parametros objetivos para poder determinar cual es la recomndación de compra para el cliente.
+		**KPI´s:**  Establecer parametros objetivos para poder determinar cual es la recomndación de compra para el cliente.
 
 		Dashboard y storytelling: Se encontrará la documentación en forma visual a traves de un dashboard de PowerBI, mediante el cual se comunicara la información y los resultados obtenidos.
 
