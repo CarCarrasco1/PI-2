@@ -83,4 +83,4 @@ Adjunto el link para que puedan visualizarlo aquí -> [Dashboard S&P500](https:/
 ### <h1 align=center> CARLA CARRASCO.</h1>
 
 
-[![](https://techcrunch.com/wp-content/uploads/2020/12/HENRY-ILUSTRACION-2.jpg?w=1390&crop=1)](http://https://techcrunch.com/wp-content/uploads/2020/12/HENRY-ILUSTRACION-2.jpg?w=1390&crop=1)
+[![](https://techcrunch.com/wp-content/uploads/2020/12/HENRY-ILUSTRACION-2.jpg?w=1390&crop=1)](https://blog.soyhenry.com/content/images/size/w2000/2022/11/Paid-Media_BlogBanner.png)
