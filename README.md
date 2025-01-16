@@ -1,4 +1,4 @@
-# PI-2
+# SP&500
 
 # <h1 align=center>PROYECTO INDIVIDUAL
 ## <h1 align=center> DATA ANALYTICS</h1>
